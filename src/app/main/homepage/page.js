@@ -28,7 +28,7 @@ export default function Homepage() {
         <div className="hero-content">
           <div className="hero-trend">NEW TREND</div>
           <h1>PRO SKATEBOARD <br /> COLLECTIONS</h1>
-          <img src="https://i0.wp.com/gamermatters.com/wp-content/uploads/2025/12/skate-story-review-3.jpg?resize=1130%2C580&ssl=1"/>
+          <img src="https://images.vexels.com/media/users/3/132153/isolated/preview/2b07e0f940d92cdf0b02e0256417d93b-skating-circle-icon.png"/>
           <p>Discover the best boards and parts for your next ride. Engineered for performance and style.</p>
           <a href="#" className="hero-btn">Shop Now</a>
         </div>
@@ -77,6 +77,7 @@ export default function Homepage() {
         <div className="deal-content">
           <div className="deal-label">DEAL OF THE WEEK</div>
           <h2 className="deal-title">UP TO 50% OFF ON <br /> PREMIUM COMPLETES</h2>
+          <img src="https://i.pinimg.com/736x/0f/97/cd/0f97cd7a014bbc8cf5663df981bef7b0.jpg"/>
           <a href="#" className="hero-btn">View Offer</a>
         </div>
         <div className="deal-image">
